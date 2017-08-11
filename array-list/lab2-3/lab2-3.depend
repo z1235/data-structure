@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502238603 source:c:\users\hui\desktop\lab2-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
